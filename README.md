@@ -9,7 +9,7 @@ This is probably the shortest code to implement real-time emotion monitoring.
 
 ## Usage
 ### Initial steps:
-- Git clone this repository Run: `git clone https://github.com/harishngt/Human-Face-Emotion-Detection-using-OpenCV-and-DeepFace.git`
+- Git clone this repository RUN: `git clone https://github.com/harishngt/Human-Face-Emotion-Detection-using-OpenCV-and-DeepFace.git`
 - Run: `cd Human-Face-Emotion-Detection-using-OpenCV-and-DeepFace`
 1. Install the required dependencies:
    - You can use `pip install -r requirements.txt`
@@ -18,7 +18,7 @@ This is probably the shortest code to implement real-time emotion monitoring.
       - `pip install opencv-python`
 
 2. Download the Haar cascade XML file for face detection:
-   - Visit the [OpenCV GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades) and download the `haarcascade_frontalface_default.xml` file.
+   - Visit the [OpenCV GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades) and download the `haarcascade_frontalface_default.xml` file. 
 
 3. Run the code:
    - Execute the Python script.
