@@ -1,2 +1,2 @@
-opencv Ppython
+opencv-python
 deepface
